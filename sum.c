@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <sum.h>
 
 int sumre = 0;
