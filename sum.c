@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include <sum.h>
+#include "sum.h"
 
-int sumre = 0;
 int sum(int n)
 {	
 	int res = 0;
